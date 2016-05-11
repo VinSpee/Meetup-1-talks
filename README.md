@@ -1,6 +1,10 @@
 # Meetup-1-talks
 
-To submit a talk. Do a pull request here, add your talk title, short description and your name. 3 talks will be picked each month. 
+To submit a talk. Do a pull request here, add your talk title, short description and your name. 3 talks will be picked each month.
+
+- __My node cli adventure__
+  - lead by: [Chris DeMars](http://chrisdemars.com)
+  - abstract: My small journey, with help or course, to build a cli tool in node, the struggles, and ES6. Don't talk about it, be about it, and just build the damn thing!
 
 - __stop bikeshedding and use npm as your task runner__
   - lead by: [Vince Speelman](http://vinspee.me)
