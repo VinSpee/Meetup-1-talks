@@ -12,4 +12,9 @@ To submit a talk. Do a pull request here, add your talk title, short description
 
 - __You're just not my type: A TypeScript overview__
   - lead by: [Steve Barman](http://stevebarman.com) 
-  - abstract: TypeScript is a pretty fun super set of javaScript. This talk covers the basics of what it is, how it works, and what the benefits it has for anyone using javaScript in development. 
+  - abstract: TypeScript is a pretty fun super set of javaScript. This talk covers the basics of what it is, how it works, and what the benefits it has for anyone using javaScript in development.
+
+- __Fun with JavaScript arrays__
+  - lead by: Michael Matola
+  - abstract: Prefilling a JavaScript array with values, or, the one useful use of the Array constructor (mit apply() special sauce), or, ES6/ES2015 fixes all of this anyhow.
+  
