@@ -144,7 +144,7 @@ Alternately, use an array-like object:
 [1, 3, 9, 27, 81, 243, 729, 2187, 6561, 19683]
 ```
 
-## ES2015 offers other additional solutions
+## ES2015 offers additional solutions
 
 * `Array.from` can convert an Iterable or array-like object into an array, taking a mapping function as optional second argument (more efficient than separately calling `map`)).
 * Spread operator
@@ -169,6 +169,8 @@ Not just numbers:
 > [...Array(3)].forEach(sayHi);
 > [...Array(3).keys()].forEach(sayHi);
 ```
+
+(`forEach` does visit elements whose value is `undefined`.)
 
 Note:
 
@@ -202,5 +204,5 @@ Note:
 
 ## Reference
 
-*Speaking JavaScript* by Dr. Axel Rauschmayer, http://www.2ality.com
-Several StackOverflow discussions
+* *Speaking JavaScript* by Dr. Axel Rauschmayer, http://www.2ality.com
+* Several StackOverflow discussions
