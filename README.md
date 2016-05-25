@@ -12,5 +12,4 @@ To submit a talk. Do a pull request here, add your talk title, short description
 
 - __Fun with JavaScript arrays__
   - led by: Michael Matola
-  - abstract: Programmatically filling a JavaScript array with values (without using for loops or external libraries), or, the one useful use of the Array constructor (mit apply() special sauce), or, ES6/ES2015 fixes all of this anyhow.
-  
+  - abstract: Programmatically filling a JavaScript array with values (without using for loops or external libraries), or, the one useful use of the Array constructor (mit apply() special sauce), or, ES6/ES2015 makes this less ugly.
