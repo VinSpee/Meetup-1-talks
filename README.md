@@ -5,6 +5,7 @@ To submit a talk. Do a pull request here, add your talk title, short description
 - __My node cli adventure__
   - led by: [Chris DeMars](http://chrisdemars.com)
   - abstract: My small journey, with help or course, to build a cli tool in node, the struggles, and ES6. Don't talk about it, be about it, and just build the damn thing!
+  - [**SLIDES**](https://speakerdeck.com/chrisdemars/my-node-cli-adventure)
 
 - __stop bikeshedding and use npm as your task runner__
   - led by: [Vince Speelman](http://vinspee.me)
