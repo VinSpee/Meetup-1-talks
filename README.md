@@ -10,7 +10,7 @@ To submit a talk. Do a pull request here, add your talk title, short description
 - __stop bikeshedding and use npm as your task runner__
   - led by: [Vince Speelman](http://vinspee.me)
   - abstract: Reduce dependencies and simplify the build pipeline by using the task runner that's built into your package manager. Create a tight feedback loop of `change -> compile -> test 𝄇` without needless abstraction.
-  - [**SLIDES**](miscreant-market.surge.sh)
+  - [**SLIDES**](http://miscreant-market.surge.sh)
 
 - __Fun with JavaScript arrays__
   - led by: Michael Matola
